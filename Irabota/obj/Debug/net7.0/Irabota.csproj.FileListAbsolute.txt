@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\ДЗ\С_sharp\Итоги\Irabota\obj\Debug\net7.0\Irabota.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ДЗ\С_sharp\Итоги\Irabota\obj\Debug\net7.0\Irabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ДЗ\С_sharp\Итоги\Irabota\obj\Debug\net7.0\Irabota.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ДЗ\С_sharp\Итоги\Irabota\obj\Debug\net7.0\Irabota.AssemblyInfo.cs
+C:\Users\admin\Desktop\ДЗ\С_sharp\Итоги\Irabota\obj\Debug\net7.0\Irabota.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ДЗ\С_sharp\Итоги\Irabota\bin\Debug\net7.0\Irabota.exe
+C:\Users\admin\Desktop\ДЗ\С_sharp\Итоги\Irabota\bin\Debug\net7.0\Irabota.deps.json
+C:\Users\admin\Desktop\ДЗ\С_sharp\Итоги\Irabota\bin\Debug\net7.0\Irabota.runtimeconfig.json
+C:\Users\admin\Desktop\ДЗ\С_sharp\Итоги\Irabota\bin\Debug\net7.0\Irabota.dll
+C:\Users\admin\Desktop\ДЗ\С_sharp\Итоги\Irabota\bin\Debug\net7.0\Irabota.pdb
+C:\Users\admin\Desktop\ДЗ\С_sharp\Итоги\Irabota\obj\Debug\net7.0\Irabota.dll
+C:\Users\admin\Desktop\ДЗ\С_sharp\Итоги\Irabota\obj\Debug\net7.0\refint\Irabota.dll
+C:\Users\admin\Desktop\ДЗ\С_sharp\Итоги\Irabota\obj\Debug\net7.0\Irabota.pdb
+C:\Users\admin\Desktop\ДЗ\С_sharp\Итоги\Irabota\obj\Debug\net7.0\Irabota.genruntimeconfig.cache
+C:\Users\admin\Desktop\ДЗ\С_sharp\Итоги\Irabota\obj\Debug\net7.0\ref\Irabota.dll
